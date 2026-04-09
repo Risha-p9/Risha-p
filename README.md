@@ -140,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=matrix&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00CC33&dates=AAAAAA&stroke=00FF41" width="55%"/>
 
 </div>
 
@@ -148,9 +148,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github&number_format=long" width="48%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" width="36%"/>
 
 </div>
 
